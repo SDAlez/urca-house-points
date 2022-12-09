@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/house-points-urca/static/css/main.7c9a8a10.css",
-    "main.js": "/house-points-urca/static/js/main.469e603d.js",
-    "static/js/787.905ec81b.chunk.js": "/house-points-urca/static/js/787.905ec81b.chunk.js",
-    "index.html": "/house-points-urca/index.html",
-    "main.7c9a8a10.css.map": "/house-points-urca/static/css/main.7c9a8a10.css.map",
-    "main.469e603d.js.map": "/house-points-urca/static/js/main.469e603d.js.map",
-    "787.905ec81b.chunk.js.map": "/house-points-urca/static/js/787.905ec81b.chunk.js.map"
+    "main.css": "/urca-house-points/static/css/main.7c9a8a10.css",
+    "main.js": "/urca-house-points/static/js/main.f11cad3e.js",
+    "static/js/787.905ec81b.chunk.js": "/urca-house-points/static/js/787.905ec81b.chunk.js",
+    "index.html": "/urca-house-points/index.html",
+    "main.7c9a8a10.css.map": "/urca-house-points/static/css/main.7c9a8a10.css.map",
+    "main.f11cad3e.js.map": "/urca-house-points/static/js/main.f11cad3e.js.map",
+    "787.905ec81b.chunk.js.map": "/urca-house-points/static/js/787.905ec81b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c9a8a10.css",
-    "static/js/main.469e603d.js"
+    "static/js/main.f11cad3e.js"
   ]
 }
